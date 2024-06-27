@@ -6,7 +6,7 @@ The Salad GUID Renamer is a Chrome extension that allows users to replace GUIDs 
 
 ## Features
 
-- Replace up to 10 GUIDs with custom friendly names.
+- Replace up to 20 GUIDs with custom friendly names.
 - Automatically updates GUIDs when new data is loaded via API calls.
 - Modern and user-friendly popup interface for configuring GUIDs and names.
 
